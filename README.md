@@ -1,1 +1,1 @@
-# Django-Registration-And-Login-Form
+# Master Branch (Kindly select the Master Branch)
